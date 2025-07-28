@@ -1,0 +1,43 @@
+[
+  {
+    "business_name": "NYC Department of Sanitation - Lower Manhattan E-waste Drop-off",
+    "last_update_date": "Not specified",
+    "street_address": "100 Pearl Street, New York, NY 10001",
+    "materials_category": [
+      "Electronics",
+      "Batteries"
+    ],
+    "materials_accepted": [
+      "Computers",
+      "Smartphones",
+      "AA Batteries"
+    ]
+  },
+  {
+    "business_name": "Best Buy - New York City (Electronics Recycling)",
+    "last_update_date": "Not specified",
+    "street_address": "123 Broadway, New York, NY 10001",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Computers",
+      "Smartphones",
+      "TVs"
+    ]
+  },
+  {
+    "business_name": "GreenCitizen Recycling Center",
+    "last_update_date": "Not specified",
+    "street_address": "55 Wall Street, New York, NY 10005",
+    "materials_category": [
+      "Electronics",
+      "Batteries"
+    ],
+    "materials_accepted": [
+      "Computers",
+      "Smartphones",
+      "Lithium-ion Batteries"
+    ]
+  }
+]
