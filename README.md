@@ -168,12 +168,3 @@ This implementation fully satisfies the Internshala assignment requirements:
 - **Documentation**: Complete submission documentation included
 - **Code Quality**: Clean, commented, production-ready implementation
 
-## Learning Outcomes
-
-By studying and running this project, you demonstrate:
-- **LLM API Integration** skills with Google Gemini
-- **Web Scraping** expertise using Selenium and BeautifulSoup  
-- **Prompt Engineering** for structured data extraction
-- **Error Handling** in real-world scraping scenarios
-- **JSON Processing** and data structure management
-- **Assignment Requirements** analysis and implementation
